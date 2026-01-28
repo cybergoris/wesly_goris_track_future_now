@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "97979af30cebb52b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c6f4640080268da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b612301de81dc96",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f86c3b8d5c6a3500",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8f9ea96b24a12f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28eb2b0e577b337e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "03910235d7f16e6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb600648609bc3ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "75cde465440dd5cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d3a088f5c55521c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5785287315336112",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wesly_goris_What_do_I_Want/Wesly Goris System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wesly Goris System"
+            }
+          },
+          {
+            "id": "72c7625d92e14898",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wesly_goris_What_do_I_Want/Wesly Goris System.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wesly Goris System"
+            }
+          },
+          {
+            "id": "061673265daea1bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b11b110db2c56b4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "95ea12c9e9f4cb47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wesly_goris_What_do_I_Want/Wesly Goris System.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wesly Goris System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "28eb2b0e577b337e",
+  "lastOpenFiles": [
+    "Untitled",
+    "wesly_goris_Courses/wesly_goris_python_projects",
+    "wesly_goris_Courses",
+    "wesly_goris_What_do_I_Want/Wesly Goris System.md",
+    "wesly_goris_What_do_I_Want"
+  ]
+}
